@@ -1,0 +1,11 @@
+lista = []
+for i in range ("kit intimo 1" , "kit de sabonetes 1" , "kit de perfume de cueca" , "kit sabonete + perfurme de cueca"):
+  item = input("Digite o item {i+ 1}")
+  lista.append(item)
+
+print(f"sua lista ficou assim: {lista}")
+
+remover = input ("digte um item pra remover.")
+for i in lista
+print(i)
+#arrumar depois
