@@ -1,0 +1,4 @@
+valor = float(input("digite o valor unitario a varejo: "))
+lucro = float(input("digite quanto   vc quer de vender o produto: "))
+print(f"o valor da sua venda é : {valor + lucro}")
+
